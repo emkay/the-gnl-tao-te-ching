@@ -1,0 +1,5 @@
+h1. The GNL Tao Te Ching
+
+I stumbled across "The GNL Tao Te Ching":http://academic.brooklyn.cuny.edu/core9/phalsall/texts/taote-v4.html and saw that it was unorganized and old. I've updated the html, and made a table of contents with links to all the chapters.
+
+Enjoy.
